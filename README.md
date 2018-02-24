@@ -1,4 +1,4 @@
-# Soviet Children's Writers Connections
+# Soviet Writers's Social Network
 
 I created this project for a researcher, [Ekaterina Lapina-Kratasyuk](https://www.hse.ru/en/org/persons/11730611), who works in [Institute for Pure and Applied Mathematics (IPAM)](http://www.ipam.ucla.edu/) at [Universit of California, Los Angeles (UCLA)](http://www.ucla.edu/), with Samir Patel, Natalia Kazimi, [Wei Dai](https://www.linkedin.com/in/weidai1994/), Stephen Wu, Jin An, directed by Prof. [Stephen DeSalvo](https://sites.google.com/site/stephendesalvo/) in Advanced Programming during Spring 2016.
 
