@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>akim.jpg</file>
+        <file>alexin.png</file>
+        <file>belyh (left).jpg</file>
+        <file>bremener.jpg</file>
+        <file>brushtein.jpg</file>
+        <file>chukovskaya.jpg</file>
+        <file>chukovsky.jpg</file>
+        <file>dik.jpeg</file>
+        <file>gabbe.jpg</file>
+        <file>gal.jpg</file>
+        <file>georgievskaya.jpg</file>
+        <file>kabo.jpg</file>
+        <file>kataev.jpg</file>
+        <file>lev_kassil.jpg</file>
+        <file>marshak.jpg</file>
+        <file>panteleev.jpeg</file>
+        <file>paustovsky.jpg</file>
+        <file>pics.qrc</file>
+        <file>prilezhaeva.jpg</file>
+        <file>sarnov.jpeg</file>
+        <file>sharov.jpeg</file>
+        <file>trifonov.jpg</file>
+        <file>vigdorova.jpg</file>
+        <file>zhitkov.jpg</file>
+    </qresource>
+</RCC>
