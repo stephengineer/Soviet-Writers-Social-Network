@@ -2,9 +2,9 @@
 
 I created this project for a researcher, [Ekaterina Lapina-Kratasyuk](https://www.hse.ru/en/org/persons/11730611), who works in [Institute for Pure and Applied Mathematics (IPAM)](http://www.ipam.ucla.edu/) at [Universit of California, Los Angeles (UCLA)](http://www.ucla.edu/), with [Samir Patel](https://github.com/sapatel12), Natalia Kazimi, [Wei Dai](https://www.linkedin.com/in/weidai1994/), Stephen Wu, Jing An, directed by Prof. [Stephen DeSalvo](https://sites.google.com/site/stephendesalvo/) in Advanced Programming during Spring 2016.
 
-**Team members(from left):** 
+**Team members** 
 
-Stephen Wang, Jing An, Stephen Wu, Ekaterina Lapina-Kratasyuk, Wei Dai, Natalia Kazimi, Samir Patel
+From left: Stephen Wang, Jing An, Stephen Wu, Ekaterina Lapina-Kratasyuk, Wei Dai, Natalia Kazimi, Samir Patel
 
 ![Screenshot](./images/IPAMprojectGroup.jpg)
 
