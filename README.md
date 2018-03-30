@@ -34,7 +34,7 @@ We are creating a method of visualization for connections between Soviet childre
 
 To make this model editable we will create a series of menus that allow the researchers to add individuals to the web and edit the information of individuals already in the web. The Modify Graph window will be accessible by clicking the QPushButton on the side of the web visualization. This window will contain three QPushButton options: Add, Erase, and Edit. For more details of [operation](./data/Operation.pdf)
 
-## Windows
+## User Interface
 
 **Main Window**
 ![Screenshot](./images/mainWindow.jpg)
